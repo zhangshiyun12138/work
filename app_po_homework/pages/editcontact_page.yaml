@@ -1,0 +1,12 @@
+- action: find_sendkeys
+  locator: //*[contains(@text,'姓名')]/..//*[@text='必填']
+  text: hogwarts_001
+
+- action: find_sendkeys
+  locator: //*[contains(@text,'手机')]/..//*[@text='手机号']
+  by: xpath
+  text: 13412345678
+
+- action: find_click
+  by: xpath
+  locator: //*[@text='保存']

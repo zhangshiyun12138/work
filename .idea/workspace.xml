@@ -2,49 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7b11a15-171f-4569-b2a7-1fca9d00d898" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/00be18b0-7821-4621-93ec-519275038cc4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/0184af10-af54-45e8-8c15-5e41da3f1b67-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/0743cad1-a47d-4038-b389-d84ca19ecc1f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/0ac9c203-0cbf-45f0-b294-f78b97b8503d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/0ad9ad98-36a4-4dc0-b02a-e1a63dceb25f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/1012f6f6-6200-4d3f-8f6e-f25391455e27-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/10a5ff10-cda0-4fb0-b864-7d8e66e8b6df-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/1e70fafd-d411-4ef3-a6d4-aca247612639-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/1e71ee21-7742-439e-9556-ef2ea1398f97-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/2cb5935d-a777-4271-aa82-7a565e0d1eb5-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/331c9f1a-9007-48e1-8a50-954fb7658bed-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/34a0a6dc-d94a-4174-b53d-5ea521c825df-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/427aea1a-f419-4b0f-bb62-eb9976673b79-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/46f69434-5b5a-4d9a-b4ac-813868ee5679-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/4801a4ce-0b2f-4491-9377-37336964f162-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/56cb4ecf-2209-4592-a907-8b713293e9da-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/57dbcc14-bf83-408e-9d94-47745862c408-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/61792f8c-4e9d-4f54-bcda-43afd5be4102-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/6562fded-6504-4d4d-876c-724dcf90da71-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/6e2e0a87-f325-4923-bb5c-85f460b0d6c8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/7f46518c-a569-4572-a9d2-2489d40b4805-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/849ee8a6-1b4c-47e7-8d5f-b4f9217d58ae-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/8bd32643-ee53-4920-a377-e5d7c1ee72d1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/92535892-7aaf-4a36-9c30-46b44a20da16-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/9d870a4a-5769-4672-a2f7-df28751c1296-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/ae69d20b-dae4-4d14-82e6-ca8d74d0db02-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/af9d503a-5232-4e04-a635-081510d88057-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/b3bc85c2-e7a2-42d1-a343-62893c9b6642-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/bc3464c5-3d65-445f-8625-ec6aa39104a6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/c1d7ab42-bfaa-4b00-bb73-c6aa46cc519e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/c23b3e90-59f6-4c9a-a5d6-841f77d5f35d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/c9593ed3-d09e-4b17-9532-be5d5edd8a73-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/cd7fb6a5-b37a-4dd7-bc28-d762a9c8b5c7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/cecee6a0-0319-4b7d-b1d6-900634e56f6d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/cffa390f-2bb1-4f07-8778-e58e4f35f134-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/d0063c6a-5ea8-4d68-a5b0-29c419ee9190-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/d3899447-cd57-49c8-ad0d-869d5060b3e1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/d6b01f67-cd01-4053-a6f4-176c8225d4aa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/d707b2d7-0ad4-4dee-85c5-a7c91892dbd6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/d9ce6070-296e-43ed-9283-deaf740c8b0b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/f0092ce6-d9fe-45c5-8816-7a811125b0ec-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/f450ed6c-235e-4648-bf12-b35a390bb763-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc_homework/result/fba68493-e152-48bc-a14f-17479205e457-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/add_member_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/testcase/test_addmember.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/addcontact_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/addcontact_page.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/addresslist_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/addresslist_page.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/editcontact_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/editcontact_page.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/information_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/information_page.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_po_homework/testcase/test_addcontact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/address_list_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/delete_member_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/editmember_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/member_info_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/search_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_member_homework/testcase/test_delete_member.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +53,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/zhangshiyun12138/work.git" />
+      </set>
+    </option>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -91,6 +90,36 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\work\delete_member_homework\pages" />
+      <recent name="D:\PycharmProjects\work" />
+      <recent name="D:\PycharmProjects\work\app_po_homework" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest for test_delete_member.TestDeleteMember.test_delete_member" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/delete_member_homework/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_delete_member.TestDeleteMember.test_delete_member&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_delete_member.TestDeleteMember.test_delete_member" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -125,7 +154,13 @@
       <workItem from="1615341432253" duration="729000" />
       <workItem from="1616578828023" duration="194000" />
       <workItem from="1616579043743" duration="9799000" />
-      <workItem from="1616638153194" duration="5130000" />
+      <workItem from="1616638153194" duration="6278000" />
+      <workItem from="1617419052755" duration="4993000" />
+      <workItem from="1617430234824" duration="36951000" />
+      <workItem from="1617506396580" duration="1393000" />
+      <workItem from="1617600436415" duration="87000" />
+      <workItem from="1617600539939" duration="50000" />
+      <workItem from="1618665491756" duration="432000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/zhangshiyun12138/work">
       <created>1613302864266</created>
@@ -162,11 +197,29 @@
       <option name="project" value="LOCAL" />
       <updated>1616643122055</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="计算器算法作业">
+      <created>1616643300290</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616643300290</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -180,18 +233,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="183" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1613303620265" />
-    <state x="319" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616642982303">
+    <state x="319" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617463866401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="319" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616642982303" />
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1616643120442">
+    <state x="319" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617463866401" />
+    <state x="453" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617450818177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616643120442" />
-    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1615341470986">
+    <state x="453" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617450818177" />
+    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1616643299075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615341470986" />
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616643299075" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1617600561146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617600561146" />
     <state x="690" y="432" width="274" height="265" key="Github.ShareDialog" timestamp="1613376457227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -200,38 +257,61 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="795" y="228" width="810" height="708" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613300335266" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1613302631390">
+    <state width="1201" height="355" key="GridCell.Tab.0.bottom" timestamp="1617540296683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613302631390" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1613302631390">
+    <state width="1201" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617540296683" />
+    <state width="1201" height="355" key="GridCell.Tab.0.center" timestamp="1617540296683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613302631390" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1613302631390">
+    <state width="1201" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617540296683" />
+    <state width="1201" height="355" key="GridCell.Tab.0.left" timestamp="1617540296683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613302631390" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1613302631390">
+    <state width="1201" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617540296683" />
+    <state width="1201" height="355" key="GridCell.Tab.0.right" timestamp="1617540296683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613302631390" />
-    <state x="227" y="103" key="SettingsEditor" timestamp="1616581970348">
+    <state width="1201" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617540296683" />
+    <state width="1201" height="296" key="GridCell.Tab.1.bottom" timestamp="1617469055873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="227" y="103" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616581970348" />
+    <state width="1201" height="296" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617469055873" />
+    <state width="1201" height="296" key="GridCell.Tab.1.center" timestamp="1617469055873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1201" height="296" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617469055873" />
+    <state width="1201" height="296" key="GridCell.Tab.1.left" timestamp="1617469055873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1201" height="296" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617469055873" />
+    <state width="1201" height="296" key="GridCell.Tab.1.right" timestamp="1617469055873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1201" height="296" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617469055873" />
+    <state x="227" y="103" key="SettingsEditor" timestamp="1617432526873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="227" y="103" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617432526873" />
     <state x="614" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614042900726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="614" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614042900726" />
+    <state x="1290" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1617439114537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1290" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617439114537" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/work$pytest_for_test_delete_member_TestDeleteMember_test_delete_member.coverage" NAME="pytest for test_delete_member.TestDeleteMember.test_delete_member Coverage Results" MODIFIED="1617506890250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/delete_member_homework/testcase" />
     <SUITE FILE_PATH="coverage/6code_main$cat.coverage" NAME="cat Coverage Results" MODIFIED="1613299302884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animalandcat" />
     <SUITE FILE_PATH="coverage/6code_main$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1613299177083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/money" />
     <SUITE FILE_PATH="coverage/6code_main$start.coverage" NAME="start Coverage Results" MODIFIED="1613299312181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mymoney" />
+    <SUITE FILE_PATH="coverage/work$pytest_for_test_addcontact_TestContact_test_addcontact.coverage" NAME="pytest for test_addcontact.TestContact.test_addcontact Coverage Results" MODIFIED="1617447903142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app_po_homework/testcase" />
     <SUITE FILE_PATH="coverage/6code_main$animal.coverage" NAME="animal Coverage Results" MODIFIED="1613299295007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animalandcat" />
     <SUITE FILE_PATH="coverage/6code_main$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1613302120367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mymoney" />
     <SUITE FILE_PATH="coverage/6code_main$cat__1_.coverage" NAME="cat (1) Coverage Results" MODIFIED="1613301373022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animaland" />
     <SUITE FILE_PATH="coverage/6code_main$animal__1_.coverage" NAME="animal (1) Coverage Results" MODIFIED="1613299131476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/animaland" />
+    <SUITE FILE_PATH="coverage/work$pytest_for_test_TestDemo_test_delete_member.coverage" NAME="pytest for test.TestDemo.test_delete_member Coverage Results" MODIFIED="1617463763300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,0 +1,51 @@
+goto_addresslist_page:
+  - by: xpath
+    action: find_click
+    locator: //*[@text='通讯录']
+
+click_search_button:
+  - action: find_click
+    locator: com.tencent.wework:id/guu
+    by: id
+
+selector_members:
+  - action: find_click
+    locator: //*[@resource-id='com.tencent.wework:id/dh2']
+    by: xpath
+
+search_member:
+  - action: find_click
+    locator: //*[contains(@text,'搜索')]
+    by: xpath
+
+  - action: find_sendkeys
+    locator: //*[contains(@text,'搜索')]
+    by: xpath
+    text: ${name}
+
+  - action: find_click
+    locator: //*[@resource-id='com.tencent.wework:id/dh2']/../../..//*[@text='aaa_001']
+    by: xpath
+
+click_info_button:
+  - action: find_click
+    locator: com.tencent.wework:id/guk
+    by: id
+
+click_memberinfo_button:
+  - action: find_click
+    locator: com.tencent.wework:id/azd
+    by: id
+
+click_deletemember_button:
+  - action: find_click
+    locator: com.tencent.wework:id/duq
+    by: id
+
+assert_result:
+  - action: find
+    locator: //*[@text='无搜索结果']
+    by: xpath
+
+
+
