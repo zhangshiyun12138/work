@@ -11,3 +11,4 @@ from mymoney.select_money import select_money
 
 print(select_money(send_money(1000)))
 
+# 123
