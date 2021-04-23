@@ -6,6 +6,7 @@
 3、定义工资查询模块 select_money，用来展示工资数额
 4、定义一个start.py ，启动文件展示最终存款金额
 """
+#存款课后作业
 from mymoney.send_money import send_money
 from mymoney.select_money import select_money
 
