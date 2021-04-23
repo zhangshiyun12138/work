@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7b11a15-171f-4569-b2a7-1fca9d00d898" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/add_member_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/data.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/pages/main_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enterpris_wechat_PO_homework/testcase/test_addmember.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/addcontact_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/addcontact_page.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/addresslist_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/addresslist_page.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/editcontact_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/editcontact_page.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/information_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/pages/information_page.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_po_homework/testcase/test_addcontact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/address_list_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/data.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/delete_member_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/editmember_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/main_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/member_info_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/pages/search_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_member_homework/testcase/test_delete_member.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    <list default="true" id="c7b11a15-171f-4569-b2a7-1fca9d00d898" name="Default Changelist" comment="删除import time">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +125,9 @@
       <workItem from="1617506396580" duration="1393000" />
       <workItem from="1617600436415" duration="87000" />
       <workItem from="1617600539939" duration="50000" />
-      <workItem from="1618665491756" duration="432000" />
+      <workItem from="1618665491756" duration="2363000" />
+      <workItem from="1618893033388" duration="36000" />
+      <workItem from="1619181499965" duration="3321000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/zhangshiyun12138/work">
       <created>1613302864266</created>
@@ -204,7 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1616643300290</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="计算器算法作业">
+      <created>1618665996956</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618665996956</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <created>1619182466414</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619182466414</updated>
+    </task>
+    <task id="LOCAL-00009" summary="删除import time">
+      <created>1619182697680</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619182697680</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +203,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -226,7 +216,9 @@
     <MESSAGE value="https://github.com/zhangshiyun12138/work" />
     <MESSAGE value="计算器作业" />
     <MESSAGE value="计算器算法作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="计算器算法作业" />
+    <MESSAGE value="test" />
+    <MESSAGE value="删除import time" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除import time" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="183" key="#Deployment" timestamp="1613303620265">
@@ -241,14 +233,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="453" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617450818177" />
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1616643299075">
+    <state x="392" y="22" key="CommitChangelistDialog2" timestamp="1619182769735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616643299075" />
-    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1617600561146">
+    <state x="392" y="22" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1619182769735" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1618893066939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617600561146" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618893066939" />
     <state x="690" y="432" width="274" height="265" key="Github.ShareDialog" timestamp="1613376457227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

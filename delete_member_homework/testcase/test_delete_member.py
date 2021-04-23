@@ -1,3 +1,4 @@
+#删除联系人
 import allure
 
 from delete_member_homework.pages.app import App
